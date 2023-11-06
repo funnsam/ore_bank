@@ -1,0 +1,5 @@
+[default]
+port = 9696
+
+[default.databases.sqlite_logs]
+url = "/db.sqlite"
